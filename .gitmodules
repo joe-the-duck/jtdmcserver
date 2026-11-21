@@ -1,0 +1,6 @@
+[submodule "tools/noeddns"]
+	path = tools/noeddns
+	url = https://github.com/bsiamer/noeddns.git
+[submodule "tools/gpon-godmode"]
+	path = tools/gpon-godmode
+	url = https://github.com/bsiamer/gpon-godmode.git

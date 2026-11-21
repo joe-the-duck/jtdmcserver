@@ -1,0 +1,16 @@
+[Unit]
+Description=Minecraft Fabric Server (jtdmcserver)
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/minecraft/server
+ExecStartPre=/opt/minecraft/scripts/sync_world.sh init
+ExecStart=/opt/minecraft/scripts/start.sh
+ExecStop=/opt/minecraft/scripts/sync_world.sh save
+Restart=no
+LimitNOFILE=65535
+
+[Install]
+WantedBy=multi-user.target

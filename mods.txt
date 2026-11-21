@@ -1,0 +1,20 @@
+# ==============================================================================
+# Joe The Duck Server - Server Mods (Fabric 26.3)
+# Direct CDN and Release URLs
+# ==============================================================================
+
+# Core & API
+https://cdn.modrinth.com/data/P7dR8mSH/versions/Zns5SSRA/fabric-api-0.166.2%2B26.3.jar
+
+# Performance & Memory Optimizations
+https://cdn.modrinth.com/data/gvQqBUqZ/versions/Lal8mJGR/lithium-fabric-0.26.4%2Bmc26.3.jar
+https://cdn.modrinth.com/data/uXXizFIs/versions/d5ddUdiB/ferritecore-9.0.0-fabric.jar
+https://cdn.modrinth.com/data/VSNURh3q/versions/Qfm2hhas/c2me-fabric-mc26.3-0.4.2-alpha.0.121.jar
+https://cdn.modrinth.com/data/fQEb0iXm/versions/UugdIYJw/krypton-0.3.2.jar
+https://cdn.modrinth.com/data/4WWQxlQP/versions/YNdFPSov/servercore-fabric-1.5.21%2B26.3.jar
+
+# Utilities & Cosmetics
+https://cdn.modrinth.com/data/TQTTVgYE/versions/yt9oDFOj/fabric-carpet-26.3%2Bv260915.jar
+https://cdn.modrinth.com/data/g8w1NapE/versions/UfZLJmX7/fabrictailor-2.11.0.jar
+https://cdn.modrinth.com/data/9eGKb6K1/versions/x9jLR94Q/voicechat-fabric-2.6.27%2B26.3.jar
+https://github.com/kamilyatou/kamilsmcmod/releases/download/v1.0.0/kamilsmcmod-1.0.0.jar

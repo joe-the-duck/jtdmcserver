@@ -1,0 +1,6 @@
+[Unit]
+Description=Sync Minecraft World from RAMDisk to Persistent Disk
+
+[Service]
+Type=oneshot
+ExecStart=/opt/minecraft/scripts/sync_world.sh save
